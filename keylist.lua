@@ -18,7 +18,7 @@ return {
         SLOT = "2"
     },
     ["VIPS3NVMK26"] = {
-        type = "VIPS3NVMK26",
+        type = "VIP",
         expiry = "2027-01-01",
         valid = true,
         max_devices = 1,
