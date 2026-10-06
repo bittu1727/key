@@ -22,7 +22,7 @@ return {
         expiry = "2027-01-01",
         valid = true,
         max_devices = 1,
-        SLOT = "3"
+        SLOT = "60"
     },
     ["BLOCKED"] = {
         type = "BLOCKED",
